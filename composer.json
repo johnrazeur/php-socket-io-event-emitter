@@ -1,5 +1,6 @@
 {
     "name": "touskar/php-socket-io-event-emitter",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Moussa Ndour",
