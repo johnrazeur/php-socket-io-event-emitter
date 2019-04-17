@@ -5,6 +5,10 @@
         {
             "name": "Moussa Ndour",
             "email": "moussa_ndour@hotmail.fr"
+        },
+        {
+          "name": "Clément Lafont",
+          "email": "lafont.clem@gmail.com"
         }
     ],
     "require": {}
