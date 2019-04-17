@@ -1,5 +1,7 @@
 <?php
 
+namespace SocketIO;
+
 /**
  * Created by PhpStorm.
  * User: mac
